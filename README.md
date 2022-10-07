@@ -1,2 +1,2 @@
 # kmarketer-bem
-Kmarketer challenge implemented with BEM CSS methodology
+kmarketer clone challenge done using BEM CSS methodology
